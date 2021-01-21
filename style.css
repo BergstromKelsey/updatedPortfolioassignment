@@ -12,6 +12,7 @@ body{
     }
     
     header{
+        box-sizing: border-box;
         background-color:white; 
         color:black;
         font-family: 'Bodoni Moda', serif;
@@ -22,74 +23,82 @@ body{
     }
 
     #top{
+        box-sizing: border-box;
         padding-left:80px;
         margin-top:-60px;
         
     }
 
     #table{
+        box-sizing: border-box;
         background-color: white;
         font-family: 'Bodoni Moda', serif;
-        width:600px;
-        height:500px;
-        margin-left:300px;
         margin-top:30px;
+        margin-left:25%;
         border: solid 4px black;
+        width: 50%;
+        padding-bottom:10px;
+        padding-top:10px;
+       
     }
 
     #tableTwo{
+        box-sizing: border-box;
         background-color: white;
         font-family: 'Bodoni Moda', serif;
-        width:600px;
-        height:350px;
-        margin-left:300px;
         margin-top:30px;
+        margin-left:25%;
         border: solid 4px black;
-        padding-left:15px;
-        padding-top:30px;
+        width: 50%;
+        padding-bottom:10px;
+        padding-top:10px;
+      
         
     }
     #tableThree{
+        box-sizing: border-box;
         background-color: white;
         font-family: 'Bodoni Moda', serif;
-        width:600px;
-        height:700px;
-        margin-left:300px;
         margin-top:30px;
+        margin-left:25%;
         border: solid 4px black;
-        padding-left:15px;
-        padding-top:30px;
-        overflow:scroll;
-        padding-bottom:20px;
-        
+        width: 50%;
+        padding-bottom:10px;
+        padding-top:10px;
+      
     }
     .aboutMe{
-        padding-left:30px;
+        box-sizing: border-box;
+        padding-left:30px; 
+        width: 100%;
+        /* float: left; */
     }
 
   
     .img-responsive{
-        width: 300px;
-        margin-top:10px;
-       
+        box-sizing: border-box;
+        width: 90%;
+        height:60%;
+        align-items: center;
         
     }
 
     .imgTwo-responsive{
-        width: 400px;
-        margin-top:10px;
+        box-sizing: border-box;
+        width: 90%;
+        height:60%;
         align-items: center;
-
-        
     }
     
 
     .btn{
+        box-sizing: border-box;
         font-family: 'Bodoni Moda', serif;
         color:black;
         border: solid 2px black;
-        padding-left:60px;
-        height:30px;
+        padding-left:10%;
+        margin-top:0%;
+        height:50%;
         font-size:14px;
     
     }
