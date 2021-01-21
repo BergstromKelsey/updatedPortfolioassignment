@@ -4,10 +4,10 @@ var aboutbtn = $("#about");
 
 
 
-// portfolibtn.on('click', function () {
-//     window.location = "https://bergstromkelsey.github.io/responsiveness/portfolio";
-// })
+ portfolibtn.on('click', function () {
+    window.location = "https://bergstromkelsey.github.io/updatedPortfolioassignment/portfolio.html";
+ })
 
-// aboutbtn.on('click', function () {
-//     window.location = "https://bergstromkelsey.github.io/responsiveness/#";
-// })
+ aboutbtn.on('click', function () {
+     window.location = "https://bergstromkelsey.github.io/updatedPortfolioassignment/";
+ })
