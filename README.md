@@ -4,8 +4,9 @@ This project has been my favorite so far in the BootCamp. Wek one of the BootCam
 
 I had fun with this, I spent a lot of time researching professional vs non professional, mostly in the styling department. What colors, fonts and displays speak professonalism, which don't? Im looking forward to adding more to my Portfolio as the BootCamp progresses!
 
-![alt text](assets/Screen Shot 2021-01-20 at 7.05.41 PM.png) 
-
+![alt text](assets/deploy1.png) 
+![alt text](assets/deploy3.png) 
+![alt text](assets/depoly2.png) 
 
 
 https://github.com/BergstromKelsey/updatedPortfolioassignment
