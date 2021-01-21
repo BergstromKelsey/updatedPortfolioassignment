@@ -2,7 +2,7 @@ var contactbtn = $("#contact");
 var portfolibtn =$("#portfolio");
 var aboutbtn = $("#about");
 
-portfolibtn.on('click', function () {
+contactbtn.on('click', function () {
     window.location = "contact.html";
  })
 
